@@ -50,15 +50,14 @@ def home():
 
     <body>
         <div class="container">
-            <h1>CloudXeus Customer Portal - v3</h1>
+            <h1>CloudXeus Customer Portal - v2</h1>
 
             <p>
                 Welcome to our sample Python application running with FastAPI.
             </p>
 
             <p>
-                This application will be packaged as a container image
-                and deployed to Azure.
+                We are working with Azure Container Apps.
             </p>
 
             <div class="status">
